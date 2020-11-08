@@ -30,7 +30,7 @@ public class SwaggerConfig {
         return new ApiInfo(
                 "ASAPlog REST API",
                 "Documentação da API Rest",
-                "API TOS",
+                "API 1",
                 "Terms of service",
                 new Contact("Thiago Rodrigues", "www.asaplog.com.br", "thiago.luiz.rodriguez@gmail.com"),
                 "License of API", "API license URL", Collections.emptyList());
